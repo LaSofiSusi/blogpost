@@ -2,8 +2,15 @@
     margin: 0;
     padding: 0;
 }
-
 body{
-    color: crimson;
+    background-color: rgb(216, 147, 236);
+}
+header{
+    background-color: rgb(245, 247, 133);
+    color: rgb(241, 132, 132);
     text-align: center;
+    margin: 50px 200px 0 200px;
+    padding: 40px 0 40px 0;
+    border: 5px solid rgb(255, 254, 254);
+    border-radius: 10px;
 }
