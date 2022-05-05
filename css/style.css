@@ -28,3 +28,9 @@ body{
 .cabecera > p{
  font-size: 20px;
 }
+
+.footer{
+    background-color: rgb(112, 64, 245);
+    text-align: center;
+    margin-top: 40px;
+}
