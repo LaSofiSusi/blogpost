@@ -3,7 +3,7 @@
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
     text-decoration: none;
-    color: white);
+    color: white;
 }
 body{
     background: url(../resources/Mona_happy.png);
@@ -44,4 +44,7 @@ body{
     background-color: rgb(112, 64, 245);
     text-align: center;
     margin-top: 40px;
+}
+.footer .corazon{
+    color: red;
 }
